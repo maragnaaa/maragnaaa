@@ -14,3 +14,9 @@
       <img width="42%" src="https://github-readme-stats.vercel.app/api?username=maragnaaa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maragnaaa&show_icons=true&layout=compact&langs_count=8&theme=synthwave"/>
   </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maragnaaa/maragnaaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maragnaaa/maragnaaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maragnaaa/maragnaaa/output/github-contribution-grid-snake.svg">
+</picture>
