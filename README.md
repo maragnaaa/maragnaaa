@@ -1,5 +1,5 @@
 <h1>Hello World. I'm Maragna</h1>
-<h3>Curso Ciências da Computação na Ceunsp, busco me profissionalizar na área de Data Science, porém com paixão em Dev Front-End.</h3>
+<h3>Curso Ciências da Computação na Ceunsp, busco me profissionalizar na área de Dev Front-End.</h3>
 
 # <h1> 💻 Languages and Tools </h1>
 <div style="display: inline_block">
