@@ -19,6 +19,7 @@
   <img alt="CSS3" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="C#" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img alt="Java" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </p>
 
 ---
