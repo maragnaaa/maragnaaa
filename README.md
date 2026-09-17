@@ -24,7 +24,13 @@
   <img alt="Docker" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img alt="Linux" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img alt="Bash" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-  <img alt="Bash" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+  <img alt="Figma" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+  <img alt="TypeScript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img alt="Node" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Express" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img alt="Prisma" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"/>
+  <img alt="MongoDB" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img alt="PostgreSQL" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 <div align="center">
