@@ -12,6 +12,7 @@
 </h2>
 
 <p align="center">
+  <img alt="React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img alt="Python" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="HTML5" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS3" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -31,6 +32,7 @@
   <img alt="Prisma" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"/>
   <img alt="MongoDB" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
   <img alt="PostgreSQL" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Vite" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"/>
 </p>
 
 <div align="center">
